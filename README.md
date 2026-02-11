@@ -24,6 +24,3 @@ The API processes different operations using a single endpoint.
 - CORS
 
 ---
-
-## Project Structure
-
